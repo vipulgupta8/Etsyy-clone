@@ -33,7 +33,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/shalu1529/flipkar-clone.git
+    git clone https://github.com/vipulgupta8/Etsyy-clone.git
+    cd Etsyy-clone
     ```
 2. **Install dependencies**:
 
