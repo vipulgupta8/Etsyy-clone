@@ -6,16 +6,16 @@ This project is a fully responsive e-commerce website frontend built using React
 ## 1. User Authentication (Firebase)
 - Secure user login, registration, and logout functionality using Firebase Authentication.
 - Redirects unauthenticated users to the login page when trying to access protected routes (e.g., adding items to the cart).
-## Add to Cart
+## 2. Add to Cart
 - Users can add products to their cart, and the total number of items is dynamically displayed in the navbar.
 - The cart updates are managed using Redux Toolkit for efficient state management.
-## Favorites
+## 3. Favorites
 - Allows users to add items to their favorites list for easy access.
 - Favorite items are managed using a dedicated slice in Redux Toolkit.
-## Search Functionality
+## 4. Search Functionality
 - Real-time search feature to help users quickly find products by name.
 - Filtered product suggestions appear dynamically as users type in the search bar.
-## Fully Responsive Design
+## 5. Fully Responsive Design
 - Styled using Tailwind CSS, the site is fully responsive and optimized for all screen sizes, providing a seamless experience across devices.
 
 # Technologies Used
